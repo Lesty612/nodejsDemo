@@ -1,0 +1,19 @@
+{
+  "name": "demo05",
+  "version": "1.0.0",
+  "description": "use async控制并�� 控制并发",
+  "main": "app.js",
+  "dependencies": {
+    "async": "^2.0.0-rc.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "async",
+    "nodejs"
+  ],
+  "author": "Lesty",
+  "license": "ISC"
+}
